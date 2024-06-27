@@ -401,15 +401,3 @@ dynamicCursor(cursorSettings);
 $(".back").click(function () {
   $(this).parent().parent().removeClass("expand");
 });
-
-// make go back from page to slider again
-
-const isTouchSupported =
-"ontouchstart" in window || window.navigator
-navigator.maxTouchPoints;
-
-if (isTouchSupported) {
-  console.log("Touch is supported!");
-} else {
-  console.log("Touch is not supported!");
-}

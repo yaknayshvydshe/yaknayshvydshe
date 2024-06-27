@@ -516,24 +516,6 @@ body .portfolio_home__title .logo img.first {
   -webkit-animation: fade 1s 1s forwards;
   animation: fade 1s 1s forwards;
 }
-@media only screen and (max-width: 600px) {
-  body .portfolio_home__title .logo img.first {
-    width: 128px;
-    height: 128px;
-  }
-}
-@media only screen and (max-width: 768px) {
-  body .portfolio_home__title .logo img.first {
-    width: 128px;
-    height: 128px;
-  }
-}
-@media only screen and (max-width: 1200px) {
-  body .portfolio_home__title .logo img.first {
-    width: 128px;
-    height: 128px;
-  }
-}
 body .portfolio_home__title .logo img.first.out {
   -webkit-animation: fadeOut 0.4s 0.6s forwards;
           animation: fadeOut 0.4s 0.6s forwards;
@@ -593,7 +575,7 @@ body .portfolio_home__title h1 {
   margin-top: 60px;
   line-height: 30px;
   font-weight: normal;
-  font-size: 1.25em;
+  font-size: 1.5em;
   opacity: 0;
   margin-bottom: 30px;
   -webkit-animation: fade 1s 1.9s forwards;

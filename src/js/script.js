@@ -401,5 +401,3 @@ dynamicCursor(cursorSettings);
 $(".back").click(function () {
   $(this).parent().parent().removeClass("expand");
 });
-
-// make go back from page to slider again
