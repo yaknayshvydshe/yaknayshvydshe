@@ -1,7 +1,5 @@
 ## A melhor forma de prever o futuro é cria-lo 
 
-Olá! 👋 Sou o **Igor Eduardo Gulak**.
-
              .---.
             /     \
             \.@-@./
